@@ -1,0 +1,12 @@
+Problem Statement:
+    
+    * Use the poker card description design classes to represent the cards, 
+        - the deck of cards,
+        - the dealer 
+    * You should then write a small main() that instantiates 
+        - the dealer
+        - your deck of cards 
+        - shuffles the cards
+        - prints out the deck
+
+When thinking about the classes that you will create, be sure to consider implementation hiding and division of responsibility.

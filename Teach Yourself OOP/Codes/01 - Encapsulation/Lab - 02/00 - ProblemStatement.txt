@@ -1,0 +1,22 @@
+Problem Statement:
+
+    # Teller is a Main Class
+    # The Teller expects a specific public interface. Here are the rules:
+
+        * You must name the account class Account
+
+        * The class must have the following two constructors:
+            => public Account()
+            => public Account( double initial_deposit )
+            The noargs constructor will set the initial balance to 0.00. The second constructorwill set the initial balance to initial_deposit
+
+        * The class must have the following three methods. 
+            - The first method credits the account with the value of funds:
+                => public void depositFunds( double funds )
+
+            - The next method debits the account by the value of funds:
+                => public double withdrawFunds( double funds )
+                However, withdrawFunds() should not allow an overdraft. Instead, if funds is greater than the balance, only debit the remainder of the balance. withdrawFunds() should return the actual amount withdrawn from the account.
+
+            - The third method retrieves the account’s current balance:
+                => public double getBalance() 
