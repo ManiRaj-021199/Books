@@ -1,0 +1,12 @@
+In this lab you will create two subclasses: 
+    - SadObject
+    - HappyObject
+    
+    Both subclasses should override getMood() in order to supply their own specially tailored mood.
+        
+        * SadObject and HappyObject should also add some methods of their own. 
+            - SadObject should add a method: public void cry(). 
+            - HappyObject should add a method: public void laugh(). 
+    
+        * laugh() should write “hahaha” to the command line.
+        * cry() should write “boo hoo” to the command line.

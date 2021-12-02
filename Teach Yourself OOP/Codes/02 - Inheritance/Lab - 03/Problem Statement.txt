@@ -1,0 +1,27 @@
+Problem Statement:
+
+    Your task is to formulate an inheritance hierarchy and implement the accounts. 
+        
+        You must create the following account classes:
+            - BankAccount
+            - SavingsAccount
+            - TimeMaturityAccount
+            - CheckingAccount
+            - OverdraftAccount
+        
+            BankAccount is the base class => It contains those tasks common to all accounts. 
+            That is the only hierarchical hint that you will get! 
+
+        There are a number of simplifications that you can make. 
+            - For fees
+            - timed maturity
+            - interest calculations
+        
+            assume that some third party will watch the calendar. 
+            Don’t program that kind of functionality into your classes. 
+            Instead, provide a method for another Object to call. 
+            
+            For example, the SavingsAccount should have an addInterest() method.
+            An outside object will call that method when it is time to calculate interest. 
+            Likewise, the CheckingAccount should expose an accessFees() method. 
+            When called this method will calculate any fees and apply them against the balance.

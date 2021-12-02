@@ -1,0 +1,8 @@
+In Lab 1 you created a MoodyObject class. 
+    - All of the subclasses redefine getMood(). 
+
+For Lab 2, change that hierarchy a bit. 
+    - Make the getMood() method abstract. 
+    - update the MoodyDriver so that it no longer attempts to directly instantiate MoodyObject. 
+    - You won’t have to make any changes to SadObject or HappyObject. 
+        - since they already provide an implementation of getMood().
