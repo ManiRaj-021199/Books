@@ -7,14 +7,14 @@
 
 Chapter | Title | Done
 ------- | ----- | ----
-01 | Exercise - 01 | 
-02 | Exercise - 02 | 
-03 | Exercise - 03 | 
-04 | Exercise - 04 | 
-05 | Exercise - 05 | 
-06 | Exercise - 06 | 
-07 | Exercise - 07 | 
-08 | Exercise - 08 | 
+01 | Exercise - 01 | :heavy_check_mark:
+02 | Exercise - 02 | :heavy_check_mark:
+03 | Exercise - 03 | :heavy_check_mark:
+04 | Exercise - 04 | :heavy_check_mark:
+05 | Exercise - 05 | :heavy_check_mark:
+06 | Exercise - 06 | :heavy_check_mark:
+07 | Exercise - 07 | :heavy_check_mark:
+08 | Exercise - 08 | :heavy_check_mark:
 09 | Exercise - 09 | 
 10 | Exercise - 10 | 
 11 | Exercise - 11 | 
