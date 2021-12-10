@@ -20,7 +20,7 @@ Self Checkout
 
 using System;
 
-public class Exercise01
+public class Exercise10
 {
     public static void Main(string[] args)
     {

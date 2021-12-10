@@ -12,7 +12,7 @@ Counting the number of characters
 
 using System;
 
-public class Exercise01
+public class Exercise02
 {
     public static void Main(string[] args)
     {

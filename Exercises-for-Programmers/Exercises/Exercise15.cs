@@ -22,7 +22,7 @@ Password Validation:
 
 using System;
 
-public class Exercise01
+public class Exercise15
 {
     public static void Main(string[] args)
     {

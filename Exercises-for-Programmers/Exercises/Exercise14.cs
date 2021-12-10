@@ -25,7 +25,7 @@ Tax Calculator:
 
 using System;
 
-public class Exercise01
+public class Exercise14
 {
     public static void Main(string[] args)
     {

@@ -17,7 +17,7 @@ Simple Math
 
 using System;
 
-public class Exercise01
+public class Exercise05
 {
     public static void Main(string[] args)
     {

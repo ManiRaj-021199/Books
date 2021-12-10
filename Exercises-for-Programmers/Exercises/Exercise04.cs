@@ -15,7 +15,7 @@ Mad Lib
 
 using System;
 
-public class Exercise01
+public class Exercise04
 {
     public static void Main(string[] args)
     {

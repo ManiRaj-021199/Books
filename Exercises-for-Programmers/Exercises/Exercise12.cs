@@ -15,7 +15,7 @@ Computing Simple Interest
 
 using System;
 
-public class Exercise01
+public class Exercise12
 {
     public static void Main(string[] args)
     {

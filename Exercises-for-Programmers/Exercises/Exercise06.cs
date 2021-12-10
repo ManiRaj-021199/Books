@@ -14,7 +14,7 @@ Retirement Calculator
 
 using System;
 
-public class Exercise01
+public class Exercise06
 {
     public static void Main(string[] args)
     {

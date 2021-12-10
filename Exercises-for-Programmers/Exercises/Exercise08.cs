@@ -15,7 +15,7 @@ Pizza Party
 
 using System;
 
-public class Exercise01
+public class Exercise08
 {
     public static void Main(string[] args)
     {

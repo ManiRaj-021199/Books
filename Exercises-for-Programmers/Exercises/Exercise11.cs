@@ -23,7 +23,7 @@ Currency Conversion
 
 using System;
 
-public class Exercise01
+public class Exercise11
 {
     public static void Main(string[] args)
     {

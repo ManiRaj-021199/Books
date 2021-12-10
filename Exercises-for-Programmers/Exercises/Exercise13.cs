@@ -26,7 +26,7 @@ Determining Compound Interest
 
 using System;
 
-public class Exercise01
+public class Exercise13
 {
     public static void Main(string[] args)
     {

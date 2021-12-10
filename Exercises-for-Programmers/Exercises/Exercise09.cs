@@ -14,7 +14,7 @@ Paint Calculator
 
 using System;
 
-public class Exercise01
+public class Exercise09
 {
     public static void Main(string[] args)
     {

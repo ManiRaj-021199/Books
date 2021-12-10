@@ -21,7 +21,7 @@ Legal Driving Age:
 
 using System;
 
-public class Exercise01
+public class Exercise16
 {
     public static void Main(string[] args)
     {

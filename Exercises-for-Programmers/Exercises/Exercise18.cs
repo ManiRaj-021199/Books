@@ -24,7 +24,7 @@ Temperature Converter:
 
 using System;
 
-public class Exercise01
+public class Exercise18
 {
     public static void Main(string[] args)
     {

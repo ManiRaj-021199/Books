@@ -18,7 +18,7 @@ Area of a Rectangular Room
 
 using System;
 
-public class Exercise01
+public class Exercise07
 {
     public static void Main(string[] args)
     {
